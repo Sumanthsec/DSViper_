@@ -4,7 +4,7 @@
 
 + Developed for penetration testers, red teamers, and cybersecurity professionals, DS Viper leverages sophisticated evasion methods to circumvent the most common Windows Defender defenses. Whether you're simulating a real-world attack or conducting a security audit, DS Viper serves as an essential tool for testing and improving system defenses.
 
-![image_alt](https://github.com/dagowda/DSViper/blob/5fc9115972739444175e550bd4f0eced58fd5e72/img/screenshot1.jpg)
+![image_alt](https://github.com/dagowda/DSViper_/blob/911f5324e57582902ca3c02ec0c799f0cc17a53a/img/screenshot1.jpg)
 
 # Download
 
